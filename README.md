@@ -1,2 +1,3 @@
 # Salaries-project-Enc-Exp
-Employee Salary Prediction &amp; PCA Analysis Compare 2 models using EMG and dimensionality expansion in Linear Regression. Includes deep-dive experiments on PCA's effect on training performance in small dimensions, plus an analysis of how encoding and feature engineering policies drive model accuracy. Demonstrate high-level optimization
+Employee Salary Prediction & Feature Engineering Framework
+Optimized salary models using a dual-approach with EMG and high-dimensional Linear Regression. Analyzed the impact of various encoding policies and PCA on training performance, specifically identifying how dimensionality reduction in small feature spaces affects accuracy. Demonstrated 99.6% model accuracy through rigorous feature engineering.
